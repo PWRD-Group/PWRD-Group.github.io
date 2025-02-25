@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a Research Group for **Power**, **WeatheR**, and **Data Science** (**PWRD**) based at the School of Engineering, University of Birmingham.
+Example Intro
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
