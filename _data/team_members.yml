@@ -1,6 +1,8 @@
-- name: Example
-  photo: einstein.jpg
-  info: Associate Professor, started Jan 2015
-  email: example@example.com
-  number_educ: 1
-  education1: Masters in Mathematics from Mars University
+- name: Daniel L. Donaldson
+  photo: donaldson.png
+  info: Assistant Professor, started Jul. 2022
+  email: d.l.donaldson@bham.ac.uk
+  number_educ: 3
+  education1: PhD from University of Birmingham
+  education2: MEng in Electrical and Computer Engineering from University of Idaho
+  education3: BSc in Electrical and Computer Engineering from California Baptist University
