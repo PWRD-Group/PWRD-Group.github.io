@@ -1,9 +1,28 @@
 
-- title: A Model-Free EV Hosting Capacity Assessment Framework for Radial LV Networks
+- title: "A Model-Free EV Hosting Capacity Assessment Framework for Radial LV Networks"
   image: vu_pub1.png
   description: The amount of interconnection requests for low-carbon technologies in the low-voltage (LV) network is increasing worldwide, requiring distribution network operators to consider efficient hosting capacity (HC) methods. This paper proposes a novel three-stage model-free electric vehicle (EV) hosting capacity assessment framework for radial LV networks that mirrors the physical rigour of the model-based end-to-end iterative search method and eliminates the need for the inflexible perturb-and-observe sensitivity approximation approach used in previous model-free methods. 
   authors: Vincent B. Umoh, Daniel L. Donaldson
   link: 
     url: https://ieeexplore.ieee.org/document/11745930
     display: IEEE Explore (2025)
+  highlight: 1
+
+
+- title: "Modification of lateritic soil with selected agricultural waste materials for sustainable road pavement construction"
+  image: sb_pub1.png
+  description: Global astronomical rise in the urban population has led to increase in the quantity of waste materials generated in all facets of human endeavour. Indiscriminate disposal of waste materials is fast becoming a serious problem in Nigeria as construction activities remain the primary source for the generation of huge amount of waste materials. Nonetheless, efforts to achieve the sustainability of the environment have led to the investigation of a number of sustainable materials (solid waste materials) as suitable materials for the improvement of lateritic soil, as against the conventional methods of using cement and lime for soil modification. This paper reviewed the effects of rice husk ash, bagasse ash, palm bunch ash and periwinkle shell ash on lateritic soil for road pavement construction. 
+  authors: A. O. Adeboje, S. O. Bankole, A. C. Apata, O. A. Olawuyi & A. A. Busari 
+  link: 
+    url: https://link.springer.com/article/10.1007/s42947-021-00091-5
+    display: Springer Nature (2022)
+  highlight: 1
+
+- title: "Electrifying paratransit in sub-Saharan Africa: Perspectives from practitioners"
+  image: sb_pub2.png
+  description: The need for sustainable transport in sub-Saharan Africa (SSA) continues to intensify due to continuous growth of urbanisation. Electrifying public transport (PT) is a path to achieving this but the means to enable this in SSA is not clear. This study explores the opportunities for electrifying the prevalent public transport system (paratransit) within the broader transport context in SSA through interviews with experts. Six important thematic areas were identified as “transport structure”, “usage culture”, “economy”, “environment”, “infrastructure”, and “regulations and incentives”. Findings reveal similarities in the challenges associated to transport formalisation and electrification, while emphasising the significance of transport and electrical power dynamics in electrification. 
+  authors: Shukurat Omotola Bankole, Daniel L Donaldson, Dilum Dissanayake, Emma Jayne Sakamoto Ferranti
+  link: 
+    url: https://www.sciencedirect.com/science/article/pii/S1361920925005231
+    display: ELSEVIER (2026)
   highlight: 1
