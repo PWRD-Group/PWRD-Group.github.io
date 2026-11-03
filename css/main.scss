@@ -91,3 +91,15 @@ firstp {
     margin-right: 30px;
 }
 
+.footer-logo {
+    height: 60px;
+    width: auto;
+    margin-bottom: 15px;
+}
+
+.carousel-inner > .item > img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+}
+
